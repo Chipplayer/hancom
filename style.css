@@ -1,0 +1,44 @@
+/* Issential Styles */
+@import url('https://fonts.googleapis.com/css?family=Nunito|Quicksand');
+
+
+
+
+html{
+    background-color:#f5f5f5;
+}
+
+.maindiv {
+    background-color: #ffffff;
+    height: 400px;
+    width:100%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.columns {
+    margin-top:80px;
+}
+
+.column{
+    border-radius: 20px;
+}
+
+.logosvg {
+    margin-bottom:20px;
+}
+
+.inputtext{
+    width:300px;
+    font-size:17px;
+    height: 40px;
+    font-family: 'Nunito', sans-serif;
+    margin-bottom:19px;
+}
+
+.inputbtn {
+    width:300px;
+    font-size:17px;
+    height: 40px;
+    font-family: 'Nunito', sans-serif;
+    margin-top:13px;
+}
